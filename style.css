@@ -83,9 +83,13 @@ a {
 }
 
 .header-sec img {
-    height: 250px;
+    height: 400px;
+    width: 200px;
     flex: 1;
     object-fit: cover;
+    padding: 20px;
+    border-radius: 253x;
+
 }
 
 /* SECTION 3 */
